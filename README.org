@@ -1,0 +1,2 @@
+* Wicker
+The program wc written in rust, minimal version
